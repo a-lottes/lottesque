@@ -78,7 +78,7 @@ const FeaturedAlbums = () => {
           </div>
           <div data-aos="fade-up" className="hidden md:block">
             <Image
-              src={"/img/cover/bikinis.png"}
+              src={"/img/home/cover/bikinis.png"}
               width={400}
               height={592}
               alt="alubum2"

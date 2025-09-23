@@ -129,27 +129,27 @@ export const latestAlbums = [
   {
     id: 1,
     link: "https://open.spotify.com/intl-de/track/3zKtsBfHu8Ijq7T6uebBNM?si=06187d23f30d4f4f",
-    image: "/img/cover/next.png",
+    image: "/img/home/cover/next.png",
   },
   {
     id: 2,
     link: "https://open.spotify.com/intl-de/album/3EVBxgaQhoePazbN7LIT3N?si=56RrBCmDQ62lBTAX4a3E-Q",
-    image: "/img/cover/invisiblethreads.png",
+    image: "/img/home/cover/invisiblethreads.png",
   },
   {
     id: 3,
     link: "https://open.spotify.com/intl-de/album/43gv0Nnsmw2Mu0ryhdRuGB?si=ejlgRR-0QwGYF1bmu-9Hcw",
-    image: "/img/cover/dropzone.png",
+    image: "/img/home/cover/dropzone.png",
   },
   {
     id: 4,
     link: "https://open.spotify.com/intl-de/album/1lRyJ0aknSjOaJlTAy9Bhh?si=e0pLSNzhTtK2eNE5gVNaKw",
-    image: "/img/cover/momentum.png",
+    image: "/img/home/cover/momentum.png",
   },
   {
     id: 5,
     link: "https://open.spotify.com/intl-de/album/2JivCXfj2IpjPSljHq8H5N?si=wsgVeMX9SZCqATb4GtvSCw",
-    image: "/img/cover/neonfever.png",
+    image: "/img/home/cover/neonfever.png",
   },
 ];
 
