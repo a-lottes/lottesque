@@ -46,6 +46,7 @@ const Featured = () => {
                   width={242}
                   height={95}
                   alt=""
+                  unoptimized
                 />
               </div>
             )}

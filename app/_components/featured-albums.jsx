@@ -81,7 +81,8 @@ const FeaturedAlbums = () => {
               src={"/img/home/cover/bikinis.png"}
               width={400}
               height={592}
-              alt="alubum2"
+              alt="album2"
+              unoptimized
             />
           </div>
         </div>

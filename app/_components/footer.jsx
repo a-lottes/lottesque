@@ -34,6 +34,7 @@ const Footer = () => {
                 height={70}
                 className="object-cover h-[70px]"
                 alt="music"
+                unoptimized
               />
               <Image
                 src={"/img/home/g2.jpg"}
@@ -41,6 +42,7 @@ const Footer = () => {
                 height={70}
                 className="object-cover h-[70px]"
                 alt="music"
+                unoptimized
               />
               <Image
                 src={"/img/home/g4.jpg"}
@@ -48,6 +50,7 @@ const Footer = () => {
                 height={70}
                 className="object-cover h-[70px]"
                 alt="music"
+                unoptimized
               />
               <Image
                 src={"/img/home/g5.jpg"}
@@ -55,6 +58,7 @@ const Footer = () => {
                 height={70}
                 className="object-cover h-[70px]"
                 alt="music"
+                unoptimized
               />
               <Image
                 src={"/img/home/g6.jpg"}
@@ -62,6 +66,7 @@ const Footer = () => {
                 height={70}
                 className="object-cover h-[70px]"
                 alt="music"
+                unoptimized
               />
               <Image
                 src={"/img/home/g8.jpg"}
@@ -69,6 +74,7 @@ const Footer = () => {
                 height={70}
                 className="object-cover h-[70px]"
                 alt="music"
+                unoptimized
               />
             </div>
           </div>
