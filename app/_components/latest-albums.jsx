@@ -38,7 +38,7 @@ const LatestAlbums = () => {
 const Albums = ({ album }) => (
   <article className="isolate relative group h-[470px] w-[376px] ">
     <div>
-      <Image width={358} height={440} src={album.image} alt="" />
+      <Image width={358} height={440} src={album.image} alt="" unoptimized />
     </div>
     <div className="z-10 transition-all absolute inset-0 flex flex-col items-center p-2 duration-300 ease-linear group-hover:pb-14 text-white justify-end font-semibold">
       <Link
