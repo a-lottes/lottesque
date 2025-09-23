@@ -18,6 +18,7 @@ const FeaturedSongs = () => {
             width={475}
             height={475}
             alt=""
+              unoptimized
           />
 
           <Image
@@ -26,6 +27,7 @@ const FeaturedSongs = () => {
             width={393}
             height={393}
             alt=""
+              unoptimized
           />
         </div>
         <div
@@ -39,6 +41,7 @@ const FeaturedSongs = () => {
               width={155}
               height={142}
               alt=""
+              unoptimized
             />
             <div className="text-center sm:text-start">
               <h5 className="text-md font-bold mb-1">Personal selection</h5>

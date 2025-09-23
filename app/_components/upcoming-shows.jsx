@@ -47,6 +47,7 @@ const UpcomingShows = () => {
                 width={220}
                 height={220}
                 alt={show.title}
+              unoptimized
               />
 
               <span className="font-medium uppercase text-lime">
