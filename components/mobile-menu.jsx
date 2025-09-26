@@ -49,9 +49,9 @@ const MobileMenu = () => {
                   <ul className="flex pl-1 uppercase font-kumbhSans flex-col text-bg-overly gap-4 py-4 font-medium overflow-auto text-xl">
                     {navigationLinks.map((item) => (
                       <li onClick={close} key={item.id}>
-                        <Link className=" focus:text-rose" href={item.route}>
+                        <a className=" focus:text-rose" href={item.route}>
                           {item.title}
-                        </Link>
+                        </a>
                       </li>
                     ))}
                   </ul>
