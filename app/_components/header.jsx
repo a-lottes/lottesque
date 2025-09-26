@@ -38,7 +38,7 @@ const Header = () => {
         isScroll ? "bg-bg-dark  bg backdrop-blur-[12px]" : "bg-transparent"
       )}
     >
-      <Link className="text-xl md:text-2xl leading-snug font-bold" href="/" 
+      <Link className="text-xl md:text-xl sm:text-xl leading-snug font-bold" href="/" 
       style={mystyle3}>
         LOTTESQUE
       </Link>
