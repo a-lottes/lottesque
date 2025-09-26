@@ -21,15 +21,25 @@ const Header = () => {
       right: "0px",
       position: "absolute"
     };
+  const mystyle2 = {
+      justifyContent: "center",
+      minHeight: "70px"
+    };
+  const mystyle3 = {
+      position: "absolute",
+      left: "20px"
+    };
 
   return (
     <nav
+      style={mystyle2}
       className={twMerge(
         "flex z-50 py-5 px-10 lg:px-20  fixed w-full top-0 items-center",
         isScroll ? "bg-bg-dark  bg backdrop-blur-[12px]" : "bg-transparent"
       )}
     >
-      <Link className="text-xl md:text-2xl leading-snug font-bold" href="/">
+      <Link className="text-xl md:text-2xl leading-snug font-bold" href="/" 
+      style={mystyle3}>
         LOTTESQUE
       </Link>
       <ul className="hidden lg:flex items-center font-medium gap-8 lg:gap-12 uppercase">

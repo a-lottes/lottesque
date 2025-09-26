@@ -33,7 +33,7 @@ const FeaturedAlbums = () => {
               <span className="font-semibold text-base inline-block text-lime mb-1">
                 Comming 2025
               </span>
-              <h3 className="text-4xl font-bold">Bikinos & Taquitos</h3>
+              <h3 className="text-4xl font-bold">Bikinis & Taquitos</h3>
             </header>
             <div className="flex flex-col gap-2">
               {musicArray.map((music) => (

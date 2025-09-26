@@ -5,21 +5,28 @@ export const playlists = [
     title: "2025 - EDM DANCE - Release Radar",
     image: "/img/playlists/edmdance.png",
     status: "spotify",
-    link: "https://open.spotify.com/playlist/7vrvdFO3NLP3Grhh6veadg?si=4Ev6lQ8_Q2iEyi9pax73og",
+    link: "https://open.spotify.com/playlist/7vrvdFO3NLP3Grhh6veadg",
   },
   {
     id: 2,
     title: "Electronic Beats",
     image: "/img/playlists/electronicbeats.png",
     status: "spotify",
-    link: "https://open.spotify.com/playlist/0Ys083w8vVaV0LmfiNl9q2?si=IYqkiTPqSr-pbqoEGqz1oQ",
+    link: "https://open.spotify.com/playlist/0Ys083w8vVaV0LmfiNl9q2",
   },
   {
     id: 3,
     title: "Best Old School House",
     image: "/img/playlists/oldschool.png",
     status: "spotify",
-    link: "https://open.spotify.com/playlist/0Ys083w8vVaV0LmfiNl9q2?si=IYqkiTPqSr-pbqoEGqz1oQ",
+    link: "https://open.spotify.com/playlist/7w3ISWoP6RS1eBTzNZU3oJ",
+  },
+  {
+    id: 3,
+    title: "Mainstage Anthems",
+    image: "/img/playlists/anthems.jpeg",
+    status: "spotify",
+    link: "https://open.spotify.com/playlist/5AgaUEzj90OsoJ9oYeWiZm",
   },
 ];
 
@@ -27,9 +34,9 @@ export const playlists = [
 export const musicArray = [
   {
     id: 1,
-    title: "Rate Diya Butake",
-    src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-    duration: "6:45",
+    title: "Bikinis and Taquitos",
+    src: "./songs/bikinis-and-taquitos_3VGwk4hP.mp3",
+    duration: "2:39",
     socialLinks: {
       facebook: "https://www.facebook.com/song1",
       twitter: "https://www.twitter.com/song1",
@@ -39,9 +46,9 @@ export const musicArray = [
   },
   {
     id: 2,
-    title: "Rate Diya Butake",
-    src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
-    duration: "5:20",
+    title: "Mood",
+    src: "./songs/mood_O5RbDfet.mp3",
+    duration: "2:09",
     socialLinks: {
       facebook: "https://www.facebook.com/song2",
       twitter: "https://www.twitter.com/song2",
@@ -51,9 +58,9 @@ export const musicArray = [
   },
   {
     id: 3,
-    title: "Rate Diya Butake",
-    src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
-    duration: "5:10",
+    title: "Fast Machine",
+    src: "./songs/fast-machine_y9NbLk5l.mp3",
+    duration: "2:21",
     socialLinks: {
       facebook: "https://www.facebook.com/song3",
       twitter: "https://www.twitter.com/song3",
@@ -63,9 +70,9 @@ export const musicArray = [
   },
   {
     id: 4,
-    title: "Rate Diya Butake",
-    src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3",
-    duration: "6:30",
+    title: "Viral Spiral",
+    src: "./songs/viral-spiral_Fj0I65Pa.mp3",
+    duration: "2:32",
     socialLinks: {
       facebook: "https://www.facebook.com/song4",
       twitter: "https://www.twitter.com/song4",
@@ -75,9 +82,9 @@ export const musicArray = [
   },
   {
     id: 5,
-    title: "Rate Diya Butake",
-    src: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
-    duration: "6:45",
+    title: "Silver Tequile",
+    src: "./songs/silver-tequila_2Q5fwKMR.mp3",
+    duration: "1:57",
     socialLinks: {
       facebook: "https://www.facebook.com/song5",
       twitter: "https://www.twitter.com/song5",
