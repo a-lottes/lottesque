@@ -33,7 +33,7 @@ const Header = () => {
             className="duration-300 ease-linear transition-all hover:text-lime"
             key={link.id}
           >
-            <Link href={link.route}>{link.title}</Link>
+            <a href={link.route}>{link.title}</a>
           </li>
         ))}
       </ul>
