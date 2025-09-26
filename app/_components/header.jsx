@@ -16,11 +16,16 @@ const Header = () => {
   // Custom hooks for get scroll position
   const scrollPosition = useScroll();
   const isScroll = scrollPosition.y > 50;
+  const mystyle = {
+      marginRight: "20px",
+      right: "0px",
+      position: "absolute"
+    };
 
   return (
     <nav
       className={twMerge(
-        "flex z-50 py-5 px-10 lg:px-20  fixed w-full top-0 justify-between items-center",
+        "flex z-50 py-5 px-10 lg:px-20  fixed w-full top-0 items-center",
         isScroll ? "bg-bg-dark  bg backdrop-blur-[12px]" : "bg-transparent"
       )}
     >
@@ -37,7 +42,7 @@ const Header = () => {
           </li>
         ))}
       </ul>
-      <div>
+      <div style={mystyle}>
         <div className=" hidden lg:flex items-center gap-5">
           <Link href="https://open.spotify.com/intl-de/artist/5e37HmlSrLs3zJmpOqrgLX?si=hWETZueTTEK1dJa66XbLVg">
             <SocialIcon
