@@ -1,5 +1,4 @@
 import FeaturedGrid from "@/components/featured-grid";
-import Featured from "./_components/featured";
 import FeaturedAlbums from "./_components/featured-albums";
 import Header from "./_components/header";
 import Hero from "./_components/hero";
@@ -17,7 +16,6 @@ const Home2 = () => {
       <FeaturedSongs />
       <LatestAlbums />
       <FeaturedAlbums />
-      <Featured />
       <FeaturedGrid />
       <UpcomingShows />
       <Footer />
