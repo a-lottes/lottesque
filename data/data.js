@@ -2,15 +2,15 @@
 export const playlists = [
   {
     id: 1,
-    title: "2025 - EDM DANCE - Release Radar",
-    image: "/img/playlists/edmdance.png",
+    title: "2025 - EDM DANCE - Sound Radar",
+    image: "/img/playlists/sound-radar.png",
     status: "spotify",
     link: "https://open.spotify.com/playlist/7vrvdFO3NLP3Grhh6veadg",
   },
   {
     id: 2,
-    title: "Electronic Beats",
-    image: "/img/playlists/electronicbeats.png",
+    title: "EDM Banger - Classics & Fresh Dance Music   ",
+    image: "/img/playlists/edm-banger.png",
     status: "spotify",
     link: "https://open.spotify.com/playlist/0Ys083w8vVaV0LmfiNl9q2",
   },
