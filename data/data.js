@@ -3,14 +3,14 @@ export const playlists = [
   {
     id: 1,
     title: "2025 - EDM DANCE - Sound Radar",
-    image: "/img/playlists/sound-radar.png",
+    image: "/img/playlists/sound-radar_tmp.png",
     status: "spotify",
     link: "https://open.spotify.com/playlist/7vrvdFO3NLP3Grhh6veadg",
   },
   {
     id: 2,
     title: "EDM Banger - Classics & Fresh Dance Music   ",
-    image: "/img/playlists/edm-banger.png",
+    image: "/img/playlists/edm-banger_tmp.png",
     status: "spotify",
     link: "https://open.spotify.com/playlist/0Ys083w8vVaV0LmfiNl9q2",
   },
@@ -24,7 +24,7 @@ export const playlists = [
   {
     id: 3,
     title: "Mainstage Anthems",
-    image: "/img/playlists/anthems.jpeg",
+    image: "/img/playlists/anthems_tmp.png",
     status: "spotify",
     link: "https://open.spotify.com/playlist/5AgaUEzj90OsoJ9oYeWiZm",
   },
